@@ -20,4 +20,6 @@ int main(){
     mhs.nama = "Miranti";
     mhs.nilai = 80;
 
+    mhs.print_data();
+
 }
